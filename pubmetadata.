@@ -1,0 +1,142 @@
+[
+  {
+    "PMID": "40874128",
+    "Title": "X-FASNet: cross-scale feature-aware with self-attention network for cognitive decline assessment in Alzheimer's disease.",
+    "Abstract": "Early diagnosis of Alzheimer's disease is critical for effective therapeutic intervention. The progressive nature of cognitive decline requires precise computational methods to detect subtle neuroanatomical changes in prodromal stages. Current multi-scale neural networks have limited cross-scale feature integration capabilities, which constrain their effectiveness in identifying early neurodegenerative markers. This paper presents an Efficient Cross-Scale Feature-Aware Self-Attention Network (X-FASNet) designed to address these limitations through systematic hierarchical representation learning. The proposed architecture implements a dual-pathway multi-scale feature extraction approach to identify discriminative neuroanatomical patterns across various spatial resolutions, while integrating a novel cross-scale feature-aware self-attention module that enhances inter-scale information exchange and captures long-range dependencies. Quantitative evaluations on the DPC-SF dataset demonstrate that X-FASNet achieves superior performance with 93.7% accuracy and 0.973 F1-score, outperforming CONVADD by 10.8 percentage points in accuracy and 0.118 in F1-score, while also surpassing EfficientB2 on key performance metrics. Comprehensive experimentation across multiple neuroimaging datasets confirms that X-FASNet provides an effective computational framework for neurodegeneration assessment, characterized by enhanced detection of subtle anatomical variations and improved pathological pattern recognition.",
+    "Journal": "Frontiers in neurology",
+    "Publication Date": "2025"
+  },
+  {
+    "PMID": "40873932",
+    "Title": "Local gyrification index and sulcal depth as imaging markers of cognitive decline in Alzheimer's disease.",
+    "Abstract": "To investigate the correlation between cortical thickness (CT), sulcal depth (SD), local gyrification index (LGI), and cognitive scores in patients with Alzheimer's disease (AD).",
+    "Journal": "Frontiers in aging neuroscience",
+    "Publication Date": "2025"
+  },
+  {
+    "PMID": "40873892",
+    "Title": "Cerebellum mitochondrial DNA copy number is increased in Parkinson's disease.",
+    "Abstract": "Bioinformatics methods can be used to quantify mitochondrial DNA copy number from whole genome sequencing (WGS) data. We evaluated mitochondrial DNA copy number from human brain-derived WGS data using the fastMitoCalc tool. 341 Parkinson's Disease cerebellum samples were compared with 74 age-matched controls from the North American Brain Expression Consortium. Parkinson's Disease cerebellum had significantly higher mitochondrial DNA copy number compared with controls (<i>P</i> = 4.15e-7), and this effect was reproducible in four of five brain banks when analysis was restricted to each resource that contributed Parkinson's Disease samples to this genetic dataset. Follow-on analyses of 128 Parkinson's Disease cerebellum samples and 33 controls that had paired neuropathology data and clinical scores demonstrated a significant increase in mitochondrial DNA copy number with Unified Staging System for Lewy Body disorders stages and Unified Parkinson's Disease Rating Scale (off meds) motor scores. Analysis of Lewy Body scores from ten brain regions showed cerebellum mitochondrial DNA copy number increased upon pathological infestation of α-synuclein aggregates in the brainstem and limbic system but did not increase after late-stage neocortical involvement. This genetics dataset supports previous observations of cerebellum activation in Parkinson's Disease and suggests mitochondrial DNA copy number may increase to support this regional activation as a compensatory mechanism to pathology or motor symptoms.",
+    "Journal": "Brain communications",
+    "Publication Date": "2025"
+  },
+  {
+    "PMID": "40873862",
+    "Title": "An Update on Career Trajectories and Professional Development Plans of MADURA Undergraduate Mentorship Program Alumni and Continuing Trainees.",
+    "Abstract": "By 2060, the U.S. population is projected to be older and more racially and ethnically diverse, and Underrepresented Minorities (URMs) are disproportionately affected by age-related conditions, including Alzheimer's Disease (AD) and Alzheimer's Disease Related Dementias (ADRD). There is a pressing need to improve diversity among aging and AD/ADRD researchers and clinicians, to better address needs of the current and future older adult population. Yet college students identifying as African American, Latinx, American Indian, first-generation, or sexual or gender minority individuals and individuals with disabilities are less likely to complete STEM bachelor's degrees or subsequently utilize STEM degrees, than their non-Hispanic White counterparts. The Mentorship for Advancing Undergraduate Research on Aging (MADURA) Program supports undergraduate retention and success, graduate/medical school applications, and entry into aging and AD/ADRD research or clinical employment. This article reports on mentee graduate degree attainment and aging/AD/ADRD employment outcomes. It also details its cohort's intermediate post-bachelor's educational and career preparation activities, designed to prepare graduates to achieve longer term professional goals. Longitudinal research on mentees' intermediate professional development activities and their utility is suggested, to improve understanding of trainees' professional development pathways and optimally supportive mentorship program design.",
+    "Journal": "HSOA journal of gerontology & geriatric medicine",
+    "Publication Date": "2024"
+  },
+  {
+    "PMID": "40873665",
+    "Title": "Characterizing clinician communication with patients about lecanemab: A qualitative study of clinicians across seven academic medical centers.",
+    "Abstract": "Anti-amyloid monoclonal antibodies (mAbs) slow cognitive decline in Alzheimer's disease but may cause amyloid-related imaging abnormalities (ARIA), which can rarely be disabling or fatal. This qualitative study investigates how clinicians communicate the benefits and risks of mAbs to patients and caregivers.",
+    "Journal": "Alzheimer's & dementia (New York, N. Y.)",
+    "Publication Date": "2025"
+  },
+  {
+    "PMID": "40873646",
+    "Title": "Enhanced Blood-Brain Barrier Penetrability of BACE1 SiRNA-Loaded Prussian Blue Nanocomplexes for Alzheimer's Disease Synergy Therapy.",
+    "Abstract": "Amyloid-β (Aβ) deposition was an important pathomechanisms of Alzheimer's disease (AD). Aβ generation was highly regulated by beta-site amyloid precursor protein cleaving enzyme 1 (BACE1), which is a prime drug target for AD therapy. The silence of BACE1 function to slow down Aβ production was accepted as an effective strategy for combating AD. Herein, BACE1 interfering RNA, metallothionein (MT) and ruthenium complexes ([Ru(bpy)<sub>2</sub>dppz]<sup>2+</sup>) were all loaded in Prussian blue nanoparticles (PRM-siRNA). PRM-siRNA under near-infrared light irradiation showed good photothermal effect and triggered instantaneous opening of blood-brain barrier (BBB) for enhanced drug delivery. BACE1 siRNA slowed down Aβ production and Cu<sup>2+</sup> chelation by metallothionein (MT) synergistically inhibited Aβ aggregation. Ruthenium (Ru) could real-timely track Aβ degradation and aggregation. The results indicated that PRM-siRNA significantly blocked Aβ aggregation and attenuated Aβ-induced neurotoxicity and apoptosis in vitro by inhibiting ROS-mediated oxidative damage and mitochondrial dysfunction through regulating the Bcl-2 family. PRM-siRNA in vivo effectively improved APP/PS1 mice learning and memory by alleviating neural loss, neurofibrillary tangles and activation of astrocytes and microglial cells in APP/PS1 mice by inhibiting BACE1, oxidative damage and tau phosphorylation. Taken together, our findings validated that BACE1 siRNA-loaded Prussian blue nanocomplexes showed enhanced BBB penetrability and AD synergy therapy.",
+    "Journal": "Exploration (Beijing, China)",
+    "Publication Date": "2025-Aug"
+  },
+  {
+    "PMID": "40873545",
+    "Title": "A SERS-Based Antibody-Aptamer Sandwich Assay for Extracellular Vesicle-Associated Tau Detection Using Gold Nanoparticles.",
+    "Abstract": "Extracellular vesicles (EVs) have emerged as sources of promising, minimally invasive biomarkers for diagnosing and monitoring diseases like Alzheimer's. Using EVs as a source of biomarkers for neurological diseases is highly relevant because they can carry pathogenic proteins, such as tau and amyloid-β, across the blood-brain barrier and can be easily accessed and collected since they are available in almost all biofluids, including blood, urine, and saliva. Here, a bioanalytical antibody-aptamer sandwich assay detection using surface-enhanced Raman spectroscopy (SERS) is developed to quantify the expression of EV-associated tau. Specifically, a gold surface conjugated with antibodies was developed to capture tau protein derived from EVs. Subsequently, adding gold nanoparticles functionalized with SERS probes and aptamers enabled the detection of tau in EVs using SERS. The sensing platform exhibited excellent reproducibility, selectivity, and sensitivity for tau in a broad range of 30 pM-10 nM with a calculated detection limit of 13 pM. Detecting molecular targets within and on the surface of EVs can enable the design of multiplex biosensors for the early diagnosis of multifactorial diseases by simultaneously detecting and quantifying pathogenic proteins, such as amyloid-β and tau in Alzheimer's disease.",
+    "Journal": "Advanced sensor research",
+    "Publication Date": "2025-Aug"
+  },
+  {
+    "PMID": "40873367",
+    "Title": "Pharmacological Activity of Scopoletin: Deciphering the Potential of Coumarins in Cognitive Dysfunction.",
+    "Abstract": "Numerous therapeutic and culinary species produce scopoletin, a coumarin that is essential for treating a wide range of illnesses as a curative and chemopreventive agent. Globally, chronic illnesses are regarded as a major public health concern. Atypical regulation of various signalling pathways is the primary cause of most of these illnesses, which include cancer, as well as cardiovascular, metabolic, and neurological disorders. In Alzheimer's disease (AD), amyloid β (Aβ) peptide aggregates are deposited in the CNS, forming plaques. The investigation assessed the capacity of scopoletin to modify the disease to several AD-related factors. It activated the release of insulin in the β cell of the pancreas. Additionally, it has been noted that most currently approved treatments for these illnesses are mono-targeted and related to the development of chemoresistance, which limits their utility and prevents them from demonstrating prolonged efficacy. Conversely, the molecules originating from plants exhibit a multi-targeted nature, which has led to widespread interest in these phytochemicals due to their few adverse effects. The purpose of this review is to summarise the possible consequences of scopoletin. An outline of scopoletin pharmacology, pharmacokinetics, and toxicity is given in this review. In addition, this chemical is non-toxic and has good pharmacokinetic properties, so more research in clinical settings is necessary to develop it as a possible medication. The findings from the investigation could aid in the prevention and management of illnesses as well as the understanding of the benefits of plants containing scopoletin.",
+    "Journal": "Current drug research reviews",
+    "Publication Date": "2025-Aug-21"
+  },
+  {
+    "PMID": "40873287",
+    "Title": "Topological Biomarkers of Alzheimer's Disease from Functional Brain Network Analysis.",
+    "Abstract": "Alzheimer's disease is a progressive neurodegenerative condition characterized by the gradual deterioration of cognitive functions. Early identification of functional brain changes is crucial for timely diagnosis and effective intervention. This study employs multiplex network analysis to examine alterations in brain connectivity topology associated with Alzheimer's Disease, to identify early biomarkers and uncover potential therapeutic targets.",
+    "Journal": "Current Alzheimer research",
+    "Publication Date": "2025-Aug-26"
+  },
+  {
+    "PMID": "40873277",
+    "Title": "Microglia-Neuron Interactions in Alzheimer's Disease.",
+    "Abstract": "Alzheimer's disease (AD) is a progressive disease characterized by significant cognitive decline, posing a substantial threat to life. Neuronal loss and dysfunction are responsible for the cognitive decline and behavioral disturbances observed in AD. Microglia are increasingly recognized for shaping the fate of neurons. However, the role of microglia-neuron interaction in neuronal degeneration of AD remains largely unclear. This review discusses microglia-mediated excessive synaptic pruning and microglia-neuron metabolic coupling in the neuronal degeneration of AD. It also summarizes the role of microglia-neuron interactions in classical pathogenic hypotheses such as the amyloid cascade, tau protein, neuroinflammation, and metal ions. It is found that microglia can serve as protectors of neurons, yet they also exacerbate neuronal damage under stress stimulation. This bidirectional modulation of microglia-neuron interaction provides a novel direction for rescuing AD neurons.",
+    "Journal": "Current neuropharmacology",
+    "Publication Date": "2025-Aug-26"
+  },
+  {
+    "PMID": "40873267",
+    "Title": "Clinical Utility of Plasma GFAP and NEFL as Biomarkers for Dementia in the Community.",
+    "Abstract": "Plasma glial fibrillary acidic protein (GFAP) and neurofilament light chain (NEFL) are promising dementia biomarkers, yet underexplored in community settings. We studied 36 153 UK Biobank participants (aged 39-70 years, median follow-up: 10.53 years) to assess the biomarkers' predictive performance using receiver operating characteristic (ROC) analysis and their influencing factors using linear regression. GFAP and NEFL demonstrated specific, strong predictive value for Alzheimer's disease (AD) and vascular dementia (VaD) (AUC = 0.76-0.83). Mechanistically, both biomarkers correlated with larger ventricular volumes and slower reaction times. Their levels were influenced by demographics and environmental factors such as smoking, comorbid chronic kidney disease, and diabetes. Genetic analysis showed GFAP levels were influenced by genetic polymorphisms, especially rs429358 mapped to APOE. Incorporating these factors significantly improved predictive accuracy for dementia (AUC = 0.86-0.89). These results could support the establishment of clinical reference ranges, enhancing screening and prediction utility of GFAP and NEFL in the community.",
+    "Journal": "Journal of neurochemistry",
+    "Publication Date": "2025-Aug"
+  },
+  {
+    "PMID": "40873226",
+    "Title": "Decoding the Gut-Brain Axis in Alzheimer's Disease: Emerging Perspectives.",
+    "Abstract": "Alzheimer's disease (AD) is a leading source of dementia, evidenced by cognitive debility, tau neurofibrillary tangles, and amyloid-β plaques. Recent studies emphasize the gut-brain axis as a vital element in the pathogenesis of Alzheimer's disease, involving microbial, neuronal, immunological, and hormonal mechanisms. The composition of gut microbiota dysbiosis is determined by growth in intestinal barrier permeability and activation of immune cells, which causes impaired function of the blood-brain barrier that stimulates neural injury, neuronal loss, neuroinflammation, and eventually AD. Various studies have reported that the gut microbiota plays a crucial role in brain function and changes in individual behavior, as well as in bacterial amyloid formation. Growing experimental and clinical data specify the conspicuous role of intestinal dysbiosis and microbiota- host interactions in AD. The importance of this paper is the focus on the potential association of AD and gut microbiota and also a discussion of the therapeutic modalities of inhibiting gut dysbiosis.",
+    "Journal": "CNS & neurological disorders drug targets",
+    "Publication Date": "2025-Aug-25"
+  },
+  {
+    "PMID": "40873146",
+    "Title": "Trajectories of Alzheimer's Disease Prevalence among National Health Insurance and Medical Aid Beneficiaries from 2010 to 2019.",
+    "Abstract": "Alzheimer's disease (AD) is the leading cause of dementia and is associated with various socioeconomic factors. This study aimed to ascertain the differences in AD prevalence based on healthcare coverage type as a proxy of socioeconomic status in South Korea.",
+    "Journal": "Yonsei medical journal",
+    "Publication Date": "2025-Sep"
+  },
+  {
+    "PMID": "40873013",
+    "Title": "Impaired MAPT/tau-secretory lysosomes are linked to cognitive vulnerability in Alzheimer patients.",
+    "Abstract": "MAPT/tau proteins propagate between brain regions in a prion-like manner, driving the onset and progression of dementia in Alzheimer disease (AD). However, the basis for variability in dementia progression among AD patients remains poorly understood. Here, we demonstrate that cognitively resilient AD patients, characterized by reduced MAPT/tau pathology, maintain lysosomal integrity, whereas cognitively vulnerable patients, exhibiting greater MAPT/tau burden, display lysosomal dysfunction. Lysosomes in cognitively vulnerable AD brains contain partially digested, seed-competent MAPT/tau species composed mainly of the amyloidogenic core with degraded peripheral regions. These pathogenic MAPT/tau forms are secreted via lysosomal exocytosis, facilitating MAPT/tau propagation and contributing to cognitive decline. Cognitively vulnerable female AD patients show increased lysosome-mediated MAPT/tau secretion relative to their male counterparts. Our findings suggest that lysosomal dysfunction, marked by altered protein expression, pH dysregulation, and MAPT/tau accumulation, underlies the heterogeneity in dementia severity. Targeting lysosomal exocytosis and the amyloidogenic core of MAPT/tau fibrils offer a promising therapeutic avenue to mitigate MAPT/tau pathology and promote cognitive resilience in AD and related dementias.",
+    "Journal": "Autophagy",
+    "Publication Date": "2025-Aug-27"
+  },
+  {
+    "PMID": "40872731",
+    "Title": "Diagnosis of Canine Cognitive Dysfunction Syndrome: A Narrative Review.",
+    "Abstract": "Many recent progresses in the overall quality of life have allowed for an increase in life expectancy, both in humans and in dogs. In addition, long-lived individuals may develop neurodegenerative disorders, and one of the most important in human medicine is Alzheimer's disease (AD). In veterinary medicine, the AD counterpart is Canine Cognitive Dysfunction Syndrome (CCDS), which, generally, affects elderly dogs from 8 years of age. These cognitive disorders are becoming frequently encountered conditions and, despite researchers' attention towards pathogenesis, treatment and diagnosis, more efforts are required to outline which clinical and laboratory evaluations must be carried out to reach a presumptive antemortem diagnosis of CCDS. The biggest need is the establishment of standardized protocols and guidelines for a correct clinical and diagnostic approach towards dogs with clinical signs referrable to CCDS. In this narrative review, we examined the up-to-date scientific literature on the topic, focusing our attention on sensitive and reliable markers for clinical antemortem CCDS diagnosis. Even if some parameters analyzed are interesting and promising, more investigations are needed to confirm the results obtained so far. This is crucial because a correct diagnosis is fundamental to determine the best treatment and, thus, to guarantee animals' health and welfare.",
+    "Journal": "Veterinary sciences",
+    "Publication Date": "2025-Aug-20"
+  },
+  {
+    "PMID": "40872605",
+    "Title": "Unlocking Therapeutic Potential of Novel Thieno-Oxazepine Hybrids as Multi-Target Inhibitors of AChE/BChE and Evaluation Against Alzheimer's Disease: In Vivo, In Vitro, Histopathological, and Docking Studies.",
+    "Abstract": "<b>Background:</b> Alzheimer's disease (AD) is largely linked with oxidative stress, the accumulation of amyloid-<i>β</i> plaques, and hyperphosphorylated <i>τ</i>-protein aggregation. Alterations in dopaminergic and serotonergic neurotransmission have also been implicated in various AD-related symptoms. <b>Methods</b>: To explore new therapeutic agents, a series of bicyclic and tricyclic thieno-oxazepine derivatives were synthesized as potential acetylcholinesterase (AChE) and butyrylcholinesterase (BChE) inhibitors. The resultant compounds were purified via HPLC and characterized using spectral analysis techniques. Histopathological examinations, other antioxidants, and anti-inflammatory biomarkers were evaluated, and in silico ADMET calculations were performed for synthetic hybrids. Molecular docking was utilized to validate the new drugs' binding mechanisms. <b>Results</b>: The most powerful AChE inhibitors were <b>14</b> and <b>16</b>, with respective values of IC<sub>50</sub> equal to 0.39 and 0.76 µM. Derivative <b>15</b> demonstrated remarkable BChE-inhibitory efficacy, on par with tacrine, with IC<sub>50</sub> values of 0.70 µM. Hybrids <b>13</b> and <b>15</b> showed greater selectivity towards BChE, despite substantial inhibition of AChE. Compounds <b>13</b> and <b>15</b> reduced escape latency and raised residence time, with almost equal activity to donepezil. <b>Conclusions:</b> According to these findings, the designed hybrids constitute multipotent lead compounds that could be used in the creation of novel anti-AD medications.",
+    "Journal": "Pharmaceuticals (Basel, Switzerland)",
+    "Publication Date": "2025-Aug-17"
+  },
+  {
+    "PMID": "40872509",
+    "Title": "New Approaches to the Treatment of Alzheimer's Disease.",
+    "Abstract": "Alzheimer's disease (AD) is one of the most common chronic neurodegenerative disorders worldwide. It is characterized by progressive memory loss and cognitive decline, leading to dementia. The pathogenesis of the disease is primarily attributed to two pathological protein structures: amyloid-beta (Aβ) plaques and tau protein neurofibrils. The current treatment strategies for AD are mainly symptomatic, highlighting the urgent need for the development of new, more effective therapies for the disease. The purpose of this paper is to provide a comprehensive and scientific review of the latest research regarding novel therapeutic options in the treatment of AD. In recent years, research has focused on more advanced and diversified strategies, including immunotherapy, gene therapy, tyrosine kinase inhibitors, therapies targeting mitochondrial function, and neurogenesis-related process modulation. One of the most promising treatment strategies for AD is immunotherapy. Intensive research is currently underway on both passive immunization, which involves the administration of monoclonal antibodies, and active immunization through vaccinations that stimulate the body to produce specific antibodies. Further research into novel therapeutic directions is essential, particularly concerning the role of the immune system in the pathogenesis of AD. Immunization appears to be a highly promising approach to developing effective methods for preventing AD or delaying the progression of this disease.",
+    "Journal": "Pharmaceuticals (Basel, Switzerland)",
+    "Publication Date": "2025-Jul-26"
+  },
+  {
+    "PMID": "40872016",
+    "Title": "FED-UNet++: An Improved Nested UNet for Hippocampus Segmentation in Alzheimer's Disease Diagnosis.",
+    "Abstract": "The hippocampus is a key structure involved in the early pathological progression of Alzheimer's disease. Accurate segmentation of this region is vital for the quantitative assessment of brain atrophy and the support of diagnostic decision-making. To address limitations in current MRI-based hippocampus segmentation methods-such as indistinct boundaries, small target size, and limited feature representation-this study proposes an enhanced segmentation framework called FED-UNet++. The residual feature reconstruction block (FRBlock) is introduced to strengthen the network's ability to capture boundary cues and fine-grained structural details in shallow layers. The efficient attention pyramid (EAP) module enhances the integration of multi-scale features and spatial contextual information. The dynamic frequency context network (DFCN) mitigates the decoder's limitations in capturing long-range dependencies and global semantic structures. Experimental results on the benchmark dataset demonstrate that FED-UNet++ achieves superior performance across multiple evaluation metrics, with an IoU of 74.95% and a Dice coefficient of 84.43% ± 0.21%, outperforming the baseline model in both accuracy and robustness. These findings confirm that FED-UNet++ is highly effective in segmenting small and intricate brain structures like the hippocampus, providing a robust and practical tool for MRI-based analysis of neurodegenerative diseases.",
+    "Journal": "Sensors (Basel, Switzerland)",
+    "Publication Date": "2025-Aug-19"
+  },
+  {
+    "PMID": "40871729",
+    "Title": "Investigation into Efficacy and Mechanisms of Neuroprotection of Ashwagandha Root Extract and Water-Soluble Coenzyme Q10 in a Transgenic Mouse Model of Alzheimer's Disease.",
+    "Abstract": "Alzheimer's Disease (AD) is one of the most prevalent neurodegenerative disorders and the most common form of dementia. Although current treatments examine disease progression, many have side effects and primarily target symptomatic relief as opposed to halting further neurodegeneration.",
+    "Journal": "Nutrients",
+    "Publication Date": "2025-Aug-20"
+  },
+  {
+    "PMID": "40871707",
+    "Title": "Avenanthramide-C Mitigates High-Fat Diet-Accelerated Alzheimer's Pathologies via NOD1-Driven Neuroinflammation in 5×FAD Mice.",
+    "Abstract": "<b>Background</b>: Obesity is clinically known to be associated with an increased risk and aggravated pathology of Alzheimer's disease (AD). A high-fat diet (HFD), the major contributor to obesity, induces neuroinflammation and central insulin resistance, both of which are linked to synaptic dysfunction. Our previous studies demonstrated that avenanthramide-C (Avn-C), a natural oat-derived phenolic compound, exerts anti-inflammatory effects and alleviates synaptic dysfunction in conventional AD models. The present study aimed to elucidate the underlying mechanisms of Avn-C in obesity-accelerated AD. <b>Methods</b>: Two-month-old male 5×FAD mice were fed an HFD to induce obesity and then treated with Avn-C. Cognitive performance, synaptic function, and structure were assessed via behavioral tests, electrophysiological recordings, and Golgi-Cox staining, respectively. Cytokine levels were quantified using ELISA and Western blotting. To explore the underlying mechanism, the NOD1 agonist C12-iE-DAP was administered to evaluate its effect on Avn-C-mediated neuroprotection. <b>Results</b>: Avn-C reduced Aβ deposition, enhanced the expression of synapse proteins, and restored synaptic plasticity, thereby improving both spatial and recognition memory in obese 5×FAD mice. Furthermore, Avn-C reduced neuroinflammation by inhibiting the NOD1/RIP2/NF-κB signaling pathway. Co-treatment with C12-iE-DAP abolished the beneficial effects of Avn-C on neuroinflammation, Aβ pathology, and cognitive function. <b>Conclusions</b>: These results suggest that Avn-C mitigates obesity-exacerbated AD-like pathological features by suppressing NOD1/RIP2/NF-κB-mediated neuroinflammation and could be a new potential therapeutic strategy for obesity-associated AD.",
+    "Journal": "Nutrients",
+    "Publication Date": "2025-Aug-19"
+  }
+]
