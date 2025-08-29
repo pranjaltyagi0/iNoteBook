@@ -2,32 +2,28 @@ import requests
 from datetime import datetime, timedelta
 
 # Search parameters
-query = "alzheimer"
+query = '"alzheimer disease"[majr] AND open access[filter]'
 days_back = 365
-retmax = 20
+retmax = 2
 
 # Step 1: Search
 search_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 params = {
     "db": "pmc",
-    "term": f"alzheimers AND open access",
+    "term": query,
     "reldate": days_back,
     "datetype": "pdat",
     "retmax": retmax,
-    "retmode": "json"
+    "retmode": "json",
 }
 print(params)
 res = requests.get(search_url, params=params).json()
-pmc_ids = res['esearchresult']['idlist']
+pmc_ids = res["esearchresult"]["idlist"]
 print(pmc_ids)
 # Step 2: Fetch full texts
 # fetch_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 # id_string = ",".join(pmc_ids)
-# fetch_params = {
-#     "db": "pmc",
-#     "id": id_string,
-#     "retmode": "xml"
-# }
+# fetch_params = {"db": "pmc", "id": id_string, "retmode": "xml"}
 # xml_data = requests.get(fetch_url, params=fetch_params).text
 
 # with open("pmc_articles.xml", "w", encoding="utf-8") as f:
